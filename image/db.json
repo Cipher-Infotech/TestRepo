@@ -1,39 +1,34 @@
 {
   "ad1": [
-     {
-      "image_path": "https://lh3.googleusercontent.com/6hOHLh9oqTU1MJEunopBw5tP6hXj4X7upTfG4xdEdastT0s9hO33do85Ug0llhnQ6g=s512-rw",
-      "ads_name": "Disney plus Hotstar",
-      "ads_Link": "https://play.google.com/store/apps/details?id=onlinetv.hotstardisneyapps.guideforhotstar"
-    },  
     {
-      "image_path": "https://lh3.googleusercontent.com/BfEAN57-MNQ7ybog-CVvXo3eK9ZbaIgdTwrPCok2XXRxt4zDrAvDz2oVt1D2ENQ1JCc=s180-rw",
-      "ads_name": "Skins for Minecraft PE",
-      "ads_Link": "https://play.google.com/store/apps/details?id=room.data.roomdemo"
-    },
-    {
-      "image_path": "https://lh3.googleusercontent.com/p0TpQ78HV80NOIGP9yfiZ_O9QRipY2zoZL3XB6hbmmOWoexp6pCZtV6AIKvJlIaRug=s180-rw",
-      "ads_name": "Zee TV Serials",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.zeetv.tipsforzeetvlivetv"
-    },
-    {
-      "image_path": "https://lh3.googleusercontent.com/Eo-53eWWaJTRnArGZlsE5pm_iP0H8Kdy8XENXmteKbIyLRrsjryLVZhNl6NGBqEdCow=s180-rw",
-      "ads_name": "TikTok Video Maker",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.screen.photovideomaker"
-    },
-    {
-      "image_path": "https://lh3.googleusercontent.com/r3f_EFuy9gvjN_W3_Lh1iSelFiPlg3MJBzRCeFCc8qDgP4yD_N_GxWmXrIQfE0DjAg=s180-rw",
-      "ads_name": "Download AadharCard",
-      "ads_Link": "https://play.google.com/store/apps/details?id=aadhaarloan.aadhaarcarddownload.howtodownloadaadhaarcard"
-    },
-    {
-      "image_path": "https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/image/oreotv.png",
-      "ads_name": "Oreo Tv - Watch IPL,Movie",
-      "ads_Link": "https://play.google.com/store/apps/details?id=oreo.oreotv.oreotvguide"
-    },
-    {
-      "image_path": "https://lh3.googleusercontent.com/F6HilJLuH6nMzO9uYRfBdg58xWE8_ObWKQtmpVefxbCCkb2Hm9H-IX27PF3iWxqu7A=s180-rw",
-      "ads_name": "Bank Balance Check",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.bankbalance.bbcinstantbankbalancechecker"
-    }
+    "appIcon": "image/thop.png",
+    "appName": "Oreo Tv",
+    "appDescription": "Watch Online Match on Mobile",
+    "url": "https://play.google.com/store/apps/details?id=oreo.oreotv.oreotvguide"
+  },
+  {
+    "appIcon": "https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/image/plus.png",
+    "appName": "Star Plus",
+    "appDescription": "Watch All Serial in star Plus App",
+    "url": "https://play.google.com/store/apps/details?id=com.starplustvlive.starplusutsavlivetv"
+  },
+  {
+    "appIcon": "https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/image/zee.png",
+    "appName": "Zee Tv serial",
+    "appDescription": "Watch Zee Tv Serial On Mobile",
+    "url": "https://play.google.com/store/apps/details?id=com.zeetv.tipsforzeetvlivetv"
+  },
+  {
+    "appIcon": "https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/image/utsav.png",
+    "appName": "Star Utsav",
+    "appDescription": "Star Utsav Serials-Shows On StarUtsav",
+    "url": "https://play.google.com/store/apps/details?id=com.starutsav.starutsavguide"
+  },
+  {
+    "appIcon": "https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/image/thop.png",
+    "appName": "THOP TV",
+    "appDescription": "Watch All Live Sports,channels",
+    "url": "https://play.google.com/store/apps/details?id=cricket.thoplivetv.thoptvguide"
+  }
   ]
 }
