@@ -1,10 +1,10 @@
 {
    "ad":[
       {
-         "banner":"image/thop.png",
-         "nativead":"Oreo Tv",
-         "interstitial":"Watch Online Match on Mobile",
-         "nativebanner":"https://play.google.com/store/apps/details?id=oreo.oreotv.oreotvguide"
+         "banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "nativead":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "interstitial":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "nativebanner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
       }
    ]
 }
