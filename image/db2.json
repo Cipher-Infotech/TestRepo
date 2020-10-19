@@ -1,32 +1,10 @@
-[
+{
+	"ad":[
 	{
-		"appIcon": "image/thop.png",
-		"appName": "Oreo Tv",
-		"appDescription": "Watch Online Match on Mobile",
-		"url": "https://play.google.com/store/apps/details?id=oreo.oreotv.oreotvguide"
-	},
-	{
-		"appIcon": "https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/image/plus.png",
-		"appName": "Star Plus",
-		"appDescription": "Watch All Serial in star Plus App",
-		"url": "https://play.google.com/store/apps/details?id=com.starplustvlive.starplusutsavlivetv"
-	},
-	{
-		"appIcon": "https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/image/zee.png",
-		"appName": "Zee Tv serial",
-		"appDescription": "Watch Zee Tv Serial On Mobile",
-		"url": "https://play.google.com/store/apps/details?id=com.zeetv.tipsforzeetvlivetv"
-	},
-	{
-		"appIcon": "https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/image/utsav.png",
-		"appName": "Star Utsav",
-		"appDescription": "Star Utsav Serials-Shows On StarUtsav",
-		"url": "https://play.google.com/store/apps/details?id=com.starutsav.starutsavguide"
-	},
-	{
-		"appIcon": "https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/image/thop.png",
-		"appName": "THOP TV",
-		"appDescription": "Watch All Live Sports,channels",
-		"url": "https://play.google.com/store/apps/details?id=cricket.thoplivetv.thoptvguide"
+		"banner": "image/thop.png",
+		"nativead": "Oreo Tv",
+		"interstitial": "Watch Online Match on Mobile",
+		"nativebanner": "https://play.google.com/store/apps/details?id=oreo.oreotv.oreotvguide"
 	}
 ]
+}
