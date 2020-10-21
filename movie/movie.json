@@ -2,31 +2,27 @@
    "movies":[
       {
          "name":"aarya",
-         "icon":"https://github.com/Cipher-Infotech/TestRepo/blob/main/movie/aarya.png"
-      },
-      {
-         "name":"aarya",
-         "icon":"https://github.com/Cipher-Infotech/TestRepo/blob/main/movie/aarya.png"
+        "icon":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/movie/aarya.png"
       },
       {
          "name":"endgame",
-         "icon":"https://github.com/Cipher-Infotech/TestRepo/blob/main/movie/endgame.png"
+         "icon":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/movie/endgame.png"
       },
       {
          "name":"infinitywar",
-         "icon":"https://github.com/Cipher-Infotech/TestRepo/blob/main/movie/infinitywar.png"
+        "icon":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/movie/infinitywar.png"
       },
       {
          "name":"marvel",
-         "icon":"https://github.com/Cipher-Infotech/TestRepo/blob/main/movie/marvel.png"
+       "icon":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/movie/marvel.png"
       },
       {
          "name":"panthre",
-         "icon":"https://github.com/Cipher-Infotech/TestRepo/blob/main/movie/panthre.png"
+       "icon":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/movie/panthre.png"
       },
       {
          "name":"ragnarok",
-         "icon":"https://github.com/Cipher-Infotech/TestRepo/blob/main/movie/ragnarok.png"
+        "icon":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/movie/ragnarok.png"
       }
    ]
 }
