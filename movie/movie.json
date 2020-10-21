@@ -1,16 +1,32 @@
 {
    "movies":[
       {
-         "name":"",
-         "icon":""
+         "name":"aarya",
+         "icon":"https://github.com/Cipher-Infotech/TestRepo/blob/main/movie/aarya.png"
       },
       {
-         "name":"",
-         "icon":""
+         "name":"aarya",
+         "icon":"https://github.com/Cipher-Infotech/TestRepo/blob/main/movie/aarya.png"
       },
       {
-         "name":"",
-         "icon":""
+         "name":"endgame",
+         "icon":"https://github.com/Cipher-Infotech/TestRepo/blob/main/movie/endgame.png"
+      },
+      {
+         "name":"infinitywar",
+         "icon":"https://github.com/Cipher-Infotech/TestRepo/blob/main/movie/infinitywar.png"
+      },
+      {
+         "name":"marvel",
+         "icon":"https://github.com/Cipher-Infotech/TestRepo/blob/main/movie/marvel.png"
+      },
+      {
+         "name":"panthre",
+         "icon":"https://github.com/Cipher-Infotech/TestRepo/blob/main/movie/panthre.png"
+      },
+      {
+         "name":"ragnarok",
+         "icon":"https://github.com/Cipher-Infotech/TestRepo/blob/main/movie/ragnarok.png"
       }
    ]
 }
