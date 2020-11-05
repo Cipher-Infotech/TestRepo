@@ -1,34 +1,22 @@
 {
-  "ad1": [
-    {
-    "appIcon": "https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/image/plus.png",
-    "appName": "Oreo Tv",
-    "appDescription": "Watch Online Match on Mobile",
-    "url": "https://play.google.com/store/apps/details?id=oreo.oreotv.oreotvguide"
-  },
-  {
-    "appIcon": "https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/image/plus.png",
-    "appName": "Star Plus",
-    "appDescription": "Watch All Serial in star Plus App",
-    "url": "https://play.google.com/store/apps/details?id=com.starplustvlive.starplusutsavlivetv"
-  },
-  {
-    "appIcon": "https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/image/zee.png",
-    "appName": "Zee Tv serial",
-    "appDescription": "Watch Zee Tv Serial On Mobile",
-    "url": "https://play.google.com/store/apps/details?id=com.zeetv.tipsforzeetvlivetv"
-  },
-  {
-    "appIcon": "https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/image/utsav.png",
-    "appName": "Star Utsav",
-    "appDescription": "Star Utsav Serials-Shows On StarUtsav",
-    "url": "https://play.google.com/store/apps/details?id=com.starutsav.starutsavguide"
-  },
-  {
-    "appIcon": "https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/image/thop.png",
-    "appName": "THOP TV",
-    "appDescription": "Watch All Live Sports,channels",
-    "url": "https://play.google.com/store/apps/details?id=cricket.thoplivetv.thoptvguide"
-  }
-  ]
+   "Ads":[
+      {
+         "app_id":"ca-app-pub-3940256099942544~3347511713",
+         "banner_id":"ca-app-pub-3940256099942544/6300978111",
+         "interstitial_id":"	ca-app-pub-3940256099942544/1033173712",
+         "native_id":"ca-app-pub-3940256099942544/2247696110",
+         "status":"true",
+         "splash_ads":"false"
+      },
+      {
+         "app_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "interstitial_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "native_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "native_banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "rectangle_banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "status":"true",
+         "splash_ads":"false"
+      }
+   ]
 }
