@@ -1,10 +1,60 @@
 {
-  "ads": [
-       {
-      "app_id":"ca-app-pub-3940256099942544~3347511713",
-      "banner_id": "ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-      "native_id": "ca-app-pub-3940256099942544/2247696110"
-    }
-  ]
+   "success":1,
+   "data":[
+      {
+         "app_id":"ca-app-pub-1746780039457735~7881101701",
+         "splash_id":"ca-app-pub-1746780039457735\/3750285006",
+         "main_inter_id":"ca-app-pub-1746780039457735\/3750285006",
+         "native_id":"ca-app-pub-1746780039457735\/2358324043",
+         "apnxt_inter_id":"103029bd-5625-4ba2-9293-8a29461b8692",
+         "apnxt_native_id":"66f95906-de1e-4643-b953-b8bd30524882",
+         "apnxt_banner_id":"a48ac80e-7c52-402d-b061-b7d6ca400823",
+         "check_ad_banner":"fb",
+         "check_ad_native":"fb",
+         "check_ad_splash":"admob",
+         "check_ad_getstarted":"fb",
+         "check_ad_tapto_start":"fb",
+         "check_ad_adwv_ext":"admob",
+         "check_ad_main_act":"admob",
+         "check_ad_insta":"fb",
+         "check_ad_whatsapp":"fb",
+         "check_ad_tiktok":"fb",
+         "check_ad_fb":"fb",
+         "check_ad_twitter":"fb",
+         "check_ad_gallery":"admob",
+         "fb_inter1":"433051467677543_433052081010815",
+         "fb_inter2":"433051467677543_433052081010815",
+         "fb_inter3":"433051467677543_433052081010815",
+         "fb_inter4":"433051467677543_433052081010815",
+         "fb_inter5":"433051467677543_433052081010815",
+         "fb_inter6":"433051467677543_433052081010815",
+         "fb_inter7":"433051467677543_433052081010815",
+         "fb_inter8":"433051467677543_433052081010815",
+         "fb_inter9":"433051467677543_433052081010815",
+         "fb_inter10":"433051467677543_433052081010815",
+         "fb_inter11":"433051467677543_433052081010815",
+         "native_banner1":"433051467677543_433052874344069",
+         "native_banner2":"433051467677543_433052874344069",
+         "native_banner3":"433051467677543_433052874344069",
+         "native_banner4":"433051467677543_433052874344069",
+         "native_banner5":"433051467677543_433052874344069",
+         "native_banner6":"433051467677543_433052874344069",
+         "native_banner7":"433051467677543_433052874344069",
+         "native_banner8":"433051467677543_433052874344069",
+         "native_banner9":"433051467677543_433052874344069",
+         "fb_native1":"433051467677543_433616234287733",
+         "fb_native2":"433051467677543_433616234287733",
+         "fb_native3":"433051467677543_433616234287733",
+         "packagename1":"",
+         "packagename2":"",
+         "packagename3":"",
+         "packagename4":"",
+         "packagename5":"",
+         "imagurl1":"",
+         "imagurl2":"",
+         "imagurl3":"",
+         "imagurl4":"",
+         "imagurl5":""
+      }
+   ]
 }
