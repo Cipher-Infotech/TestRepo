@@ -1,30 +1,4 @@
 {
-   "games":[
-      {
-         "name":"Action",
-         "total":"28 Games"
-      },
-      {
-         "name":"Adventure",
-         "total":"43 Games"
-      },
-      {
-         "name":"Arcade",
-         "total":"40 Games"
-      },
-      {
-         "name":"Puzzle & Logic",
-         "total":"41 Games"
-      },
-      {
-         "name":"Sports & Racing",
-         "total":"27 Games"
-      },
-      {
-         "name":"Strategy",
-         "total":"43 Games"
-      }
-   ],
    "Action":[
       {
           "code":"SyXuN7W1F",
