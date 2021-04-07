@@ -6,49 +6,10 @@
          "name":{
             "en":"Illuminate"
          },
-         "isPortrait":true,
-         "description":{
-            "en":"Light up your brains and every room with a limited amount of lamps and reflectors in this puzzle game."
-         },
-         "gamePreviews":{
-            "en":""
-         },
          "assets":{
-            "cover":"https://static.gamezop.com/rkHuVQ-1K/cover.jpg",
-            "brick":"https://static.gamezop.com/rkHuVQ-1K/brick.png",
-            "thumb":"https://static.gamezop.com/rkHuVQ-1K/thumb.png",
-            "wall":"https://static.gamezop.com/rkHuVQ-1K/wall.png",
             "square":"https://static.gamezop.com/rkHuVQ-1K/square.png",
-            "screens":[
-               "https://static.gamezop.com/rkHuVQ-1K/game-1.png",
-               "https://static.gamezop.com/rkHuVQ-1K/game-2.png",
-               "https://static.gamezop.com/rkHuVQ-1K/game-3.png"
-            ],
-            "coverTiny":"https://static.gamezop.com/rkHuVQ-1K/cover-tiny.jpg",
-            "brickTiny":"https://static.gamezop.com/rkHuVQ-1K/brick-tiny.png"
          },
-         "categories":{
-            "en":[
-               "Strategy"
-            ]
-         },
-         "tags":{
-            "en":[
-               "Logic",
-               "Family",
-               "Fun",
-               "Strategy",
-               "Pixel",
-               "Level-based",
-               "Puzzle"
-            ]
-         },
-         "width":320,
-         "height":480,
-         "colorMuted":"#744d34",
-         "colorVibrant":"#7c5434",
-         "privateAllowed":false,
-         "rating":4.5,
+         "rating":"4.5",
          "gamePlays":127706
       },
       {
@@ -57,49 +18,10 @@
          "name":{
             "en":"Cowboy vs. Martians"
          },
-         "isPortrait":false,
-         "description":{
-            "en":"Here's what a typical day in Texas would look like if the Martians landed on Earth! Shoot 'em all!"
-         },
-         "gamePreviews":{
-            "en":""
-         },
          "assets":{
-            "cover":"https://static.gamezop.com/SyTeia3fOeZ/cover.jpg",
-            "brick":"https://static.gamezop.com/SyTeia3fOeZ/brick.png",
-            "thumb":"https://static.gamezop.com/SyTeia3fOeZ/thumb.png",
-            "wall":"https://static.gamezop.com/SyTeia3fOeZ/wall.png",
             "square":"https://static.gamezop.com/SyTeia3fOeZ/square.png",
-            "screens":[
-               "https://static.gamezop.com/SyTeia3fOeZ/game-1.png",
-               "https://static.gamezop.com/SyTeia3fOeZ/game-2.png",
-               "https://static.gamezop.com/SyTeia3fOeZ/game-3.png"
-            ],
-            "coverTiny":"https://static.gamezop.com/SyTeia3fOeZ/cover-tiny.jpg",
-            "brickTiny":"https://static.gamezop.com/SyTeia3fOeZ/brick-tiny.png"
          },
-         "categories":{
-            "en":[
-               "Puzzle \u0026 Logic"
-            ]
-         },
-         "tags":{
-            "en":[
-               "Action",
-               "Adventure",
-               "Boys",
-               "Shooting",
-               "Strategy",
-               "Space",
-               "Level-based"
-            ]
-         },
-         "width":854,
-         "height":480,
-         "colorMuted":"#4a6c80",
-         "colorVibrant":"#ccb106",
-         "privateAllowed":false,
-         "rating":4.5,
+         "rating":"4.5",
          "gamePlays":1921395
       },
       {
@@ -108,47 +30,10 @@
          "name":{
             "en":"Cuby Dash"
          },
-         "isPortrait":true,
-         "description":{
-            "en":"Here's a snake that likes... carrots! Swiftly move left and right, collect as many carrots as you can!"
-         },
-         "gamePreviews":{
-            "en":"https://youtu.be/qbOCr4Fr3KE"
-         },
          "assets":{
-            "cover":"https://static.gamezop.com/Sy6b98udz0/cover.jpg",
-            "brick":"https://static.gamezop.com/Sy6b98udz0/brick.png",
-            "thumb":"https://static.gamezop.com/Sy6b98udz0/thumb.png",
-            "wall":"https://static.gamezop.com/Sy6b98udz0/wall.png",
             "square":"https://static.gamezop.com/Sy6b98udz0/square.png",
-            "screens":[
-               "https://static.gamezop.com/Sy6b98udz0/game-1.png",
-               "https://static.gamezop.com/Sy6b98udz0/game-2.png",
-               "https://static.gamezop.com/Sy6b98udz0/game-3.png"
-            ],
-            "coverTiny":"https://static.gamezop.com/Sy6b98udz0/cover-tiny.jpg",
-            "brickTiny":"https://static.gamezop.com/Sy6b98udz0/brick-tiny.png"
          },
-         "categories":{
-            "en":[
-               "Arcade"
-            ]
-         },
-         "tags":{
-            "en":[
-               "Classics",
-               "Endless",
-               "Fun",
-               "Kids",
-               "Arcade"
-            ]
-         },
-         "width":337,
-         "height":600,
-         "colorMuted":"#3f442b",
-         "colorVibrant":"#745e11",
-         "privateAllowed":true,
-         "rating":4.5,
+         "rating":"4.5",
          "gamePlays":8867002
       },
       {
@@ -157,43 +42,10 @@
          "name":{
             "en":"Chess Grandmaster"
          },
-         "isPortrait":true,
-         "description":{
-            "en":"A chess game for everyone: from beginners to experts! Choose between 3 difficulty modes, or directly pick from over 1100+ challenges to solve within a limited set of moves!"
-         },
-         "gamePreviews":{
-            "en":"https://youtu.be/BUoXagcZiWA\r"
-         },
          "assets":{
-            "cover":"https://static.gamezop.com/rkAXTzkD5kX/cover.jpg",
-            "brick":"https://static.gamezop.com/rkAXTzkD5kX/brick.png",
-            "thumb":"https://static.gamezop.com/rkAXTzkD5kX/thumb.png",
-            "wall":"https://static.gamezop.com/rkAXTzkD5kX/wall.png",
             "square":"https://static.gamezop.com/rkAXTzkD5kX/square.png",
-            "screens":[
-               "https://static.gamezop.com/rkAXTzkD5kX/game-1.png",
-               "https://static.gamezop.com/rkAXTzkD5kX/game-2.png",
-               "https://static.gamezop.com/rkAXTzkD5kX/game-3.png"
-            ],
-            "coverTiny":"https://static.gamezop.com/rkAXTzkD5kX/cover-tiny.jpg",
-            "brickTiny":"https://static.gamezop.com/rkAXTzkD5kX/brick-tiny.png"
          },
-         "categories":{
-            "en":[
-               "Strategy"
-            ]
-         },
-         "tags":{
-            "en":[
-               
-            ]
-         },
-         "width":768,
-         "height":1024,
-         "colorMuted":"#2F0743",
-         "colorVibrant":"#41295A",
-         "privateAllowed":false,
-         "rating":null,
+         "rating":"4.6",
          "gamePlays":867242
       },
       {
@@ -202,49 +54,10 @@
          "name":{
             "en":"Jelly Slice"
          },
-         "isPortrait":true,
-         "description":{
-            "en":"Slice the Jelly so that each slice contains only one star! Get 3 stars for maximum rewards."
-         },
-         "gamePreviews":{
-            "en":"https://youtu.be/9qRmRJAbj_Y"
-         },
          "assets":{
-            "cover":"https://static.gamezop.com/SJ3-ELT8p-x/cover.jpg",
-            "brick":"https://static.gamezop.com/SJ3-ELT8p-x/brick.png",
-            "thumb":"https://static.gamezop.com/SJ3-ELT8p-x/thumb.png",
-            "wall":"https://static.gamezop.com/SJ3-ELT8p-x/wall.png",
             "square":"https://static.gamezop.com/SJ3-ELT8p-x/square.png",
-            "screens":[
-               "https://static.gamezop.com/SJ3-ELT8p-x/game-1.png",
-               "https://static.gamezop.com/SJ3-ELT8p-x/game-2.png",
-               "https://static.gamezop.com/SJ3-ELT8p-x/game-3.png"
-            ],
-            "coverTiny":"https://static.gamezop.com/SJ3-ELT8p-x/cover-tiny.jpg",
-            "brickTiny":"https://static.gamezop.com/SJ3-ELT8p-x/brick-tiny.png"
          },
-         "categories":{
-            "en":[
-               "Puzzle \u0026 Logic"
-            ]
-         },
-         "tags":{
-            "en":[
-               "Logic",
-               "Family",
-               "Food",
-               "Fun",
-               "Level-based",
-               "HD",
-               "Puzzle"
-            ]
-         },
-         "width":1008,
-         "height":756,
-         "colorMuted":"#910707",
-         "colorVibrant":"#ac0909",
-         "privateAllowed":true,
-         "rating":4.5,
+         "rating":"4.8",
          "gamePlays":8265925
       },
       {
@@ -253,50 +66,10 @@
          "name":{
             "en":"Zombies Can't Jump 2"
          },
-         "isPortrait":false,
-         "description":{
-            "en":"Help the Mexican gunfighters Pedro and Juana to survive the attacks of bloodthirsty zombies."
-         },
-         "gamePreviews":{
-            "en":"https://youtu.be/thlytlfqeNA"
-         },
          "assets":{
-            "cover":"https://static.gamezop.com/rkxMV8TI6Wg/cover.jpg",
-            "brick":"https://static.gamezop.com/rkxMV8TI6Wg/brick.png",
-            "thumb":"https://static.gamezop.com/rkxMV8TI6Wg/thumb.png",
-            "wall":"https://static.gamezop.com/rkxMV8TI6Wg/wall.png",
             "square":"https://static.gamezop.com/rkxMV8TI6Wg/square.png",
-            "screens":[
-               "https://static.gamezop.com/rkxMV8TI6Wg/game-1.png",
-               "https://static.gamezop.com/rkxMV8TI6Wg/game-2.png",
-               "https://static.gamezop.com/rkxMV8TI6Wg/game-3.png"
-            ],
-            "coverTiny":"https://static.gamezop.com/rkxMV8TI6Wg/cover-tiny.jpg",
-            "brickTiny":"https://static.gamezop.com/rkxMV8TI6Wg/brick-tiny.png"
          },
-         "categories":{
-            "en":[
-               "Action"
-            ]
-         },
-         "tags":{
-            "en":[
-               "Action",
-               "Boys",
-               "Shooting",
-               "Fun",
-               "Strategy",
-               "Zombie",
-               "Level-based",
-               "HD"
-            ]
-         },
-         "width":1260,
-         "height":945,
-         "colorMuted":"#494c35",
-         "colorVibrant":"#9e2c17",
-         "privateAllowed":true,
-         "rating":4.5,
+         "rating":"4.5",
          "gamePlays":9588835
       },
       {
@@ -305,50 +78,10 @@
          "name":{
             "en":"Bouncing Beasts"
          },
-         "isPortrait":true,
-         "description":{
-            "en":"Help the animals hop from one twig to the other, without letting the rings touch the wood!"
-         },
-         "gamePreviews":{
-            "en":"https://youtu.be/043jC1nLJ64"
-         },
          "assets":{
-            "cover":"https://static.gamezop.com/4y6efOyf-5g/cover.jpg",
-            "brick":"https://static.gamezop.com/4y6efOyf-5g/brick.png",
-            "thumb":"https://static.gamezop.com/4y6efOyf-5g/thumb.png",
-            "wall":"https://static.gamezop.com/4y6efOyf-5g/wall.png",
             "square":"https://static.gamezop.com/4y6efOyf-5g/square.png",
-            "screens":[
-               "https://static.gamezop.com/4y6efOyf-5g/game-1.png",
-               "https://static.gamezop.com/4y6efOyf-5g/game-2.png",
-               "https://static.gamezop.com/4y6efOyf-5g/game-3.png"
-            ],
-            "coverTiny":"https://static.gamezop.com/4y6efOyf-5g/cover-tiny.jpg",
-            "brickTiny":"https://static.gamezop.com/4y6efOyf-5g/brick-tiny.png"
          },
-         "categories":{
-            "en":[
-               "Arcade"
-            ]
-         },
-         "tags":{
-            "en":[
-               "Adventure",
-               "Endless",
-               "Exclusive",
-               "Fun",
-               "Animal",
-               "Kids",
-               "Arcade",
-               "Cute"
-            ]
-         },
-         "width":400,
-         "height":600,
-         "colorMuted":"#5c3c2c",
-         "colorVibrant":"#946418",
-         "privateAllowed":true,
-         "rating":4.5,
+         "rating":"4.3",
          "gamePlays":13428629
       }
    ]
