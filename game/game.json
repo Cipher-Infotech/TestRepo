@@ -35,42 +35,9 @@
          "description":{
             "en":"Rush through the maze before your fuel runs out. Fly as long as you can in this endless game."
          },
-         "gamePreviews":{
-            "en":"https://youtu.be/cC_6kAP3yBE"
-         },
          "assets":{
-            "cover":"https://static.gamezop.com/SyXuN7W1F/cover.jpg",
-            "brick":"https://static.gamezop.com/SyXuN7W1F/brick.png",
-            "thumb":"https://static.gamezop.com/SyXuN7W1F/thumb.png",
-            "wall":"https://static.gamezop.com/SyXuN7W1F/wall.png",
             "square":"https://static.gamezop.com/SyXuN7W1F/square.png",
-            "screens":[
-               "https://static.gamezop.com/SyXuN7W1F/game-1.png",
-               "https://static.gamezop.com/SyXuN7W1F/game-2.png",
-               "https://static.gamezop.com/SyXuN7W1F/game-3.png"
-            ],
-            "coverTiny":"https://static.gamezop.com/SyXuN7W1F/cover-tiny.jpg",
-            "brickTiny":"https://static.gamezop.com/SyXuN7W1F/brick-tiny.png"
          },
-         "categories":{
-            "en":[
-               "Action"
-            ]
-         },
-         "tags":{
-            "en":[
-               "Adventure",
-               "Endless",
-               "Arcade",
-               "Pixel",
-               "Minimal"
-            ]
-         },
-         "width":320,
-         "height":480,
-         "colorMuted":"#132424",
-         "colorVibrant":"#108484",
-         "privateAllowed":true,
          "rating":4.5,
          "gamePlays":15449230
       }
