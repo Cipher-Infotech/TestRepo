@@ -2,12 +2,12 @@
    "Ads":[
       {
          "app_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "interstitial_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "interstitial_id1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-          "interstitial_id2":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "native_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "native_banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "banner_id":"473904140467469_473904280467455",
+         "interstitial_id":"473904140467469_473904737134076",
+         "interstitial_id1":"473904140467469_473904860467397",
+          "interstitial_id2":"473904140467469_473904920467391",
+         "native_id":"473904140467469_473904547134095",
+         "native_banner_id":"473904140467469_473904433800773",
          "rectangle_banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
          "qureka":"https://282.win.qureka.com",
          "status":"true",
