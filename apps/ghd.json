@@ -1,17 +1,16 @@
 {
-   "Ads":[
-      {
-         "app_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "banner_id":"1475984196067486_1476447306021175",
-         "interstitial_id":"1475984196067486_1476534996012406",
-         "interstitial_id1":"1475984196067486_1476535092679063",
-          "interstitial_id2":"1475984196067486_1476535242679048",
-         "native_id":"1475984196067486_1476534706012435",
-         "native_banner_id":"1475984196067486_1476534806012425",
-         "rectangle_banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "qureka":"https://282.win.qureka.com",
-         "status":"true",
-         "splash_ads":"false"
-      }
-   ]
+   "app_redirectOtherAppStatus":"0",
+   "app_newPackageName":"starutsav.freestarutsavserialsapps15.freestarutsavserialsapp",
+   "app_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "interstitial_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "interstitial_id1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "interstitial_id2":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "native_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "native_banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "rectangle_banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "qureka":"https://282.win.qureka.com",
+   "status":"true",
+   "splash_ads":"false",
+   "more_app":"https://raw.githubusercontent.com/Cipher-Infotech/mockjson/master/db.json"
 }
